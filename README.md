@@ -26,7 +26,7 @@ Design and implement an order management system.
     - Provide product information to the order service.
 
 ## Architecture
-![Architecture](image-1.png)
+![Architecture](architecture.png)
 
 ### Components
 1. SQL Databases
