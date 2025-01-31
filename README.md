@@ -26,6 +26,19 @@ Design and implement an order management system.
     - Provide product information to the order service.
 
 ## Architecture
+![Architecture](image-1.png)
+
+### Components
+1. SQL Databases
+1. Azure Container Apps
+1. Azure Functions
+1. Azure Service Bus
+1. Azure Storage tables
+1. Application Insights
+1. Container Registry
+1. Azure DevOps
+
+
 
 ## Steps
 
