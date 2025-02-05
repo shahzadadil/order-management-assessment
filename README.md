@@ -42,10 +42,10 @@ Design and implement an order management system.
 
 ## Steps
 
-### Identify the domains
+### Step 1: Identify the domains
 Identify the domains and subdomains. Create a context map to show the relationships between the domains.
 
-### Create Product Management Service
+### Step 2: Create Product Management Service
 - Create an ASP.NET Core API to manage products.
   - Create/update/delete products
   - Basic properties: Id, Name, Description, Price
